@@ -1,3 +1,4 @@
+Attribute VB_Name = "Module1"
 Sub stockModule()
 
 'navigators/utility variables
